@@ -1,2 +1,2 @@
 mkdir ./bin
-gcc -o bin/MGCVocoder src/MGCVocoder.c src/MGCVocoder.h src/Synthesizer.c src/Synthesizer.h -lm
+gcc -o bin/MGCVocoder MGCVocoder.c MGCVocoder.h Synthesizer.c Synthesizer.h -lm

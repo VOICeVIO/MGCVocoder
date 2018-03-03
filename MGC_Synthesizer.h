@@ -10,8 +10,8 @@
 /*              Department of Computer Science     */
 /* ----------------------------------------------- */
 
-#include "MGCVocoder.h"
-    
+#include "MGC_Vocoder.h"
+
 /*  -------------------------- vocoder ----------------------------  */
 #ifndef PI
 #define PI  3.14159265358979323846
